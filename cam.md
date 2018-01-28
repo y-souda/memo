@@ -17,6 +17,7 @@
 	* https://www.dxomark.com/index.php/Cameras/Nikon/D80---Measurements
 
 
+
 # SnapBridge + PC(Windows)転送手順
 * 注意事項
     * PC(Windows)のWiFiは、固定IPにすること
@@ -40,7 +41,7 @@
 * 24mmでは、中央は、F4.5（開放）では素晴らしい値（excellent）で、F5.6とF8では際立った値（outstanding）になる。隅はF4.5からF11でとても良好な値（very good）だ。
 
 # AF-S NIKKOR 24-70mm f/2.8E ED VR
-* **迷ったら：f8.0が解像度のピーク**
+* **迷ったら：f5.6が解像度のピーク**
 * 解像力は、24mmでは中央は開放から素晴らしい値（excellent）で、F8でピークに達し、F22ではとても良好（very good）のレベルまで低下する。隅は中央に後れを取っているが、開放からすでにとても良好（very good）に近い値で、F11でピークに達する。ここでは全体的にとても見栄えのする性能だ。
 * 35mmの解像力は、開放から素晴らしい値（excellent）で、F8でピークに達し、F22では低下するがまだとても良好（very good）だ。隅は開放からF11までは良い（good）～とても良好（very good）のレベルを維持しているが、F16とF22では解像力が低下する。
 * 70mmの解像力は開放では低くなるが、中央はまだとても良好（very good）な値を維持しており、F5.6では素晴らしい値（excellent）になる。これはF11まで維持される。隅は開放ではかなり甘いが、絞ると徐々に改善し、ピークのF11では素晴らしい値（excellent）になる。
