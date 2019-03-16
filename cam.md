@@ -14,13 +14,6 @@
 	* 24bit
 	* https://www.dxomark.com/Reviews/Nikon-D500-sensor-review-Performance-redefined
 
-# Nikon D80
-* 最高画質: ISO100
-	* 11EV
-	* 22bit
-	* https://www.dxomark.com/index.php/Cameras/Nikon/D80---Measurements
-
-
 
 # SnapBridge + PC(Windows)転送手順
 * 注意事項
