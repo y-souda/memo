@@ -8,13 +8,6 @@
 	* 24bit over
 	* https://www.dxomark.com/nikon-d850-sensor-review-first-dslr-hit-100-points/
 
-# Nikon D500
-* 最高画質: ISO50
-	* 14EV
-	* 24bit
-	* https://www.dxomark.com/Reviews/Nikon-D500-sensor-review-Performance-redefined
-
-
 # SnapBridge + PC(Windows)転送手順
 * 注意事項
     * PC(Windows)のWiFiは、固定IPにすること
@@ -26,8 +19,6 @@
     2. カメラでWiFiアイコンが表示されたことを確認する
     3. SnapBridgeを閉じる
     4. PC（Windows）側でツール起動
-
-
 
 
 # TAMRON 10-24mm F/3.5-4.5 Di II VC HLD（Model B023）
@@ -51,11 +42,6 @@
 * 色収差は、70mmではわずかに見られるが105mmでは改善し、135mmでは極めて低い値になる。200mmでは、色収差は若干大きな値になるが、それでもなお素晴らしい値で、厳しい条件でも色収差は目立たないだろう。
 * 逆光では、複雑なレンズ構成にもかかわらずフレアは目立たず、高いコントラストが維持されている。
 * 歪曲は70mmでは-0.0392%のタル型で、ズームとしては際立って良く補正されている。望遠側にズームすると、105mmで+1.32%、135mmで+1.69%、200mmでは+2.01%の糸巻き型なり、これは多くのレンズよりも良好な値だ。
-
-# AI AF-S Zoom Nikkor ED 80～200mm F2.8D(IF)
-* **迷ったら：f5.6が解像度のピーク**
-* 中央の解像度はズーム全域で優秀な値となる。ズーム全域でf2.8から最高であるExcellent評価。80mm f5.6ではD200のセンサーの限界を超える解像度を示した。
-* 周辺部の解像度は80mm 135mmでf2.8からVeryGood評価（上から2ランク目）。200mm f2.8ではGood評価となった。80mmではf5.6-8でExcellent評価となり、 ワイド側の解像度が優秀であることが分かる。135mm 200mm共にピークとなるf5.6-8ではExcellentには届かないがVeryGood評価となった。
 
 # SIGMA 150-600mm F5-6.3 DG OS HSM Contemporary 
 * **迷ったら：f8.0が解像度のピーク**
