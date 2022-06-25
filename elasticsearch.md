@@ -6,7 +6,7 @@
 	  * https://www.elastic.co/guide/en/elasticsearch/reference/8.2/runtime-retrieving-fields.html#lookup-runtime-fields
 	* Bulk API
 	  * https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html
-	* kNN search APIedit
+	* kNN search API
 	  * https://www.elastic.co/guide/en/elasticsearch/reference/8.2/knn-search-api.html
 
 * よく使うコマンド
